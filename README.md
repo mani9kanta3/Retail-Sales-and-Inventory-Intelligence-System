@@ -1,6 +1,4 @@
-# Retail Sales and Inventory Intelligence System
-
-# 🛒 Retail Sales & Inventory Intelligence Dashboard
+# 🛒 Retail Sales & Inventory Intelligence System
 
 This project delivers a complete **Retail Sales & Inventory Intelligence System** that helps retail businesses analyze **sales performance, product demand, staff contribution, and stock efficiency** across multiple store locations.
 
