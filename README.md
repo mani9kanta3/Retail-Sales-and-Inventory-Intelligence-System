@@ -38,7 +38,6 @@ The project operates on two data domains:
 
 Schemas and table relationships were created and enforced using the SQL script.  
 🔗 **SQL File:** `Retail_Analysis.sql`  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -92,7 +91,6 @@ The dashboard provides:
 A complete walkthrough — including objectives, data model diagrams, SQL workflow, dashboard explanation, and insights — is available here:
 
 📘 **Documentation PDF: `Retail_Sales_Insights_Documentation.pdf`**  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
