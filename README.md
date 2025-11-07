@@ -118,6 +118,7 @@ A complete walkthrough — including objectives, data model diagrams, SQL workfl
 
 **Author:** *Manikanta Pudi*  
 **LinkedIn Profile:** *https://www.linkedin.com/in/manikanta3/* 
+
 **Portfolio:** *https://manikantapudi.com/*
 
 ---
