@@ -117,9 +117,7 @@ A complete walkthrough — including objectives, data model diagrams, SQL workfl
 ## 🤝 Contact
 
 **Author:** *Manikanta Pudi*  
-**LinkedIn Profile:** *add_here*  
-**GitHub Portfolio:** *add_here*
+**LinkedIn Profile:** *https://www.linkedin.com/in/manikanta3/* 
+**Portfolio:** *https://manikantapudi.com/*
 
 ---
-
-## ⭐ If this project helped you, consider giving it a star!
